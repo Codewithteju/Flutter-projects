@@ -34,17 +34,7 @@ A simple and visually appealing weather application built with Flutter. This app
 
 ---
 
-## 🖼️ Apperance
 
-- **Overall APP**  
-  ![Weather App Screenshot](WeatherAppwithFlutter.png)
-
-
-
-- **Hourly Forecast**  
- 
-
----
 
 ## 🔧 Future Improvements
 
